@@ -14,7 +14,6 @@ font-family: 'Lato', sans-serif;
 */
 
 *{
-
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -27,7 +26,7 @@ font-family: 'Lato', sans-serif;
 /* Hero Section------------------------------------------------------------------------------------------------------------------------------------ */
 
 .hero {
-  background-image:url("/public/images/bgAC.png");
+  background-image:url("/public/images/bg.png");
   padding: 1rem 1rem 1rem 1rem;
   background-attachment: fixed;
   background-size:cover;
@@ -71,7 +70,7 @@ font-family: 'Lato', sans-serif;
 
 /* Services Section -----------------------------------------------------*/
 .services {
-  background-image: url('/public/images/bgAC.png');
+  background-image: url('/public/images/bg.png');
   background-attachment: fixed;
   background-size:cover;
   background-repeat: no-repeat;
@@ -103,7 +102,7 @@ font-family: 'Lato', sans-serif;
 }
 
 .services__card {
-  background: #ffffff;
+  background: #fffbf3;
 }
 
 
@@ -131,7 +130,6 @@ font-family: 'Lato', sans-serif;
 @media screen and (max-width: 1300px) {
 
   .services{
-    background-image:url("/public/images/bgAC.png");
     background-attachment: fixed;
     background-size:cover;
     background-repeat: no-repeat;
@@ -143,7 +141,6 @@ font-family: 'Lato', sans-serif;
 
 @media screen and (max-width: 800px) {
   .services{
-    background-image:url("/public/images/bgAC.png");
     background-attachment: fixed;
     background-size:cover;
     background-repeat: no-repeat;  
@@ -156,7 +153,7 @@ font-family: 'Lato', sans-serif;
 
 /* About Section ------------------------------------------------------------- */
 .main {
-  background-image:url("/public/images/bgAC.png");
+  background-image:url("/public/images/bg.png");
   padding: 1rem 1rem 1rem 1rem;
   background-attachment: fixed;
   background-size:cover;
@@ -234,7 +231,6 @@ font-family: 'Lato', sans-serif;
 
 @media screen and (max-width: 930px) {
   .main {
-    background-image:url("/public/images/bgAC.png");
     background-attachment: fixed;
     background-size:cover;
     background-repeat: no-repeat;
